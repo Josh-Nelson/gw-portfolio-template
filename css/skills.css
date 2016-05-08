@@ -1,0 +1,35 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-color: #00107E;
+  text-align: center;
+  font-size: 3em;
+}
+
+#skills {
+  height: 500px;
+  width: 100%;
+  background-color: #00107E;
+  padding-top: 45px;
+}
+
+.skills-container {
+  height: 75%;
+  width: 85%;
+  margin: 0 auto;
+}
+
+#skills article {
+  width: 25%;
+  height: 100%;
+  background-color: #FFE700;
+  float: left;
+  margin: 0 22px;
+  padding: 15px 20px;
+  border-radius: 5px;
+  text-align: justify;
+}
+
+#skills article h1 {
+  text-align: center;
+}
